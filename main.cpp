@@ -2,8 +2,14 @@
 using namespace std;
 
 int main() {
+    
+    string h, w;
 
-    // add any code here, sort of a 'hello world plus' code block
+    h = "Hello"; 
 
+    w = "World"; 
+    
+    cout << h << " " << w << endl; 
+    
     return 0;
 }
